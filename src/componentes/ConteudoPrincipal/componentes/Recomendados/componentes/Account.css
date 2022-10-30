@@ -1,0 +1,36 @@
+.account{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    position: relative;
+    margin: 10px 0px;
+}
+
+.account img{
+    border-radius: 50%;
+}
+
+.account div{
+    display: flex;
+    flex-direction: column;
+    margin: 0px 15px;
+    font-size: 13px;
+}
+
+.account span:last-child{
+    color:#929292;
+}
+
+.account img, .account span{
+    cursor: pointer;
+}
+
+.account button{
+    color: #0094f6;
+    font-size: 14px;
+    border:none;
+    background-color: transparent;
+    position: absolute;
+    right: 0;
+    cursor: pointer;
+}

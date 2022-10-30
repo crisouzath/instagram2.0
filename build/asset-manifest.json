@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3b9e343a.css",
+    "main.js": "/static/js/main.d335e401.js",
+    "static/js/787.9f5be45d.chunk.js": "/static/js/787.9f5be45d.chunk.js",
+    "static/media/aliencon.jpg": "/static/media/aliencon.2c65604ed19205f103e2.jpg",
+    "static/media/space.jpg": "/static/media/space.b1b6723252f95b886ce1.jpg",
+    "static/media/dipper.png": "/static/media/dipper.d9cef2c2bb11d036c4a6.png",
+    "static/media/familia.jpg": "/static/media/familia.ade45ccc7089ec9fe541.jpg",
+    "static/media/kris.jpg": "/static/media/kris.d7dd572072a7d31a1aff.jpg",
+    "static/media/katniss.jpg": "/static/media/katniss.7c130e87e63351015b71.jpg",
+    "static/media/bests.jpg": "/static/media/bests.6ca5e15b58b485ca8274.jpg",
+    "static/media/littles.jpg": "/static/media/littles.31588138f3769667d537.jpg",
+    "static/media/brothers.jpg": "/static/media/brothers.0f20921a389b53407493.jpg",
+    "static/media/Instagram_logo.svg.png": "/static/media/Instagram_logo.svg.2caa1ed21801fef79e6b.png",
+    "static/media/felps.jpg": "/static/media/felps.f4b78f5e36ab5d2b628e.jpg",
+    "static/media/teemo.jpg": "/static/media/teemo.d7f2adc04db3f639daad.jpg",
+    "static/media/banco_pan.png": "/static/media/banco_pan.5dde18ff5d3e6d39454f.png",
+    "index.html": "/index.html",
+    "main.3b9e343a.css.map": "/static/css/main.3b9e343a.css.map",
+    "main.d335e401.js.map": "/static/js/main.d335e401.js.map",
+    "787.9f5be45d.chunk.js.map": "/static/js/787.9f5be45d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b9e343a.css",
+    "static/js/main.d335e401.js"
+  ]
+}

@@ -1,0 +1,12 @@
+.conteudoPrincipal{
+    width: 85vw;
+    min-height: 100%;
+    margin-left: 15%;
+    padding: 30px 10%;
+    display: flex;
+}
+
+.dark .conteudoPrincipal{
+    background-color: #121212;
+    color: white;
+}

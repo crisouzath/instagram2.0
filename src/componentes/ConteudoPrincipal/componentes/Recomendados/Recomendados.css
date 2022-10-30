@@ -1,0 +1,64 @@
+.recomendados{
+    width: 25vw;
+    margin: 0px 35px;
+    padding: 5px 0px;
+}
+
+.recomendados .suggestions{
+    position: relative;
+    font-size: 14px;
+}
+
+.recomendados .suggestions span:first-child{
+    color:#9292926c;
+    font-weight: 600;
+    
+}
+
+.recomendados .suggestions span:nth-child(2){
+    position: absolute;
+    right: 0;
+    cursor: pointer;
+}
+
+.recomendados .suggestions div{
+      margin: 20px 0px;
+}
+
+.recomendados .footer{
+    max-width: 100%;
+    font-size: 13px;
+    color:#9292927C;
+    margin: 30px 0px;
+}
+
+.recomendados .footer .links{
+    width: 25vw;
+    margin: 10px 0px;
+}
+
+.recomendados .footer .links ul{
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+    line-height: 20px;
+}
+
+.recomendados .footer .links ul li:after{
+    content:'•';
+    margin: 0px 3px;
+}
+
+.recomendados .footer .links ul li:last-child::after{
+    content:'';
+}
+
+.recomendados .footer .links ul li a{
+    text-decoration: none;
+    color:#9292927c;
+}
+
+.recomendados .footer .links ul li a:hover{
+    text-decoration: underline;
+}
+

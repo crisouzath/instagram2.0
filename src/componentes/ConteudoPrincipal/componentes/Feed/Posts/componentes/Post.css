@@ -1,0 +1,159 @@
+.post{
+    width: 100%;
+    min-height: 90%;
+    border: 1px solid #dbdbdb;
+    border-radius: 5px;
+    margin: 20px 0px;
+    position: relative;
+}
+
+.post .header{
+    width: 100%;
+    height: 9%;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    position: relative;
+}
+
+.post .header img{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.post .header .titulos{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.post .header .titulos span{
+    font-size: smaller;
+    cursor: pointer;
+}
+
+.post .header .titulos span:last-child{
+    font-weight: lighter;
+}
+
+.post .header .more-option{
+    position: absolute;
+    right: 0;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.post .section{
+    padding: 0px 10px;
+    font-size: 15px;
+    width: 100%;
+}
+
+.post .icones-list{
+    display: flex;
+    width: 100%;
+    height:9%;
+    position: relative;
+    align-items: center;
+}
+
+.post .icones-list div{
+    margin: 5px 10px 0px 0px;
+    cursor: pointer;
+}
+
+.post .icones-list div svg:hover{
+    filter: opacity(30%);
+}
+
+.post .icones-list div:nth-child(3){
+    transform: rotate(60deg);
+    margin-top: -3px;
+}
+
+.post .icones-list div:last-child{
+    position: absolute;
+    right: 0;
+}
+
+.post .likes{
+    padding: 10px 0px;
+    display: flex;
+    align-items: center;
+}
+
+.post .likes img{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.post .likes span{
+    margin-left: 8px;
+}
+
+.post .likes span b{
+    cursor: pointer;
+}
+
+.post .section .legenda{
+    margin: 5px 0px;
+}
+
+.post .section .see-comments{
+    color:#929292;
+    margin: 10px 0px;
+    cursor: pointer;
+}
+
+.post .section .time{
+    color:#929292;
+    font-size: x-small;
+    width: 100%;
+    display: block;
+    margin: 15px 0px;
+}
+
+.post form{
+    border-top: 1px #dbdbdb88 solid;
+    width: 100%;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.post form input[type='text']{
+    padding: 10px;
+    border: none;
+    outline: none;
+    width: 85%;
+    font-size: 15px;
+}
+
+.post form button{
+    color: #0094f665;
+    font-weight: bold;
+    font-size: 15px;
+    border:none;
+    background-color: transparent;
+}
+
+.dark .post{
+    background-color: black;
+    border-color: #dbdbdb49;
+}
+
+.dark .post form input[type='text']{
+   background-color: #000000;
+   color:#DBDBDB;
+}
+
+@keyframes likeAnimation {
+    0% {opacity:0;}
+    50% {opacity:1; transform:scale(5);}
+    100% {opacity:0;};
+}
