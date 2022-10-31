@@ -64,7 +64,9 @@ useEffect(() => {
 `No código:`
 ```html
 {slice.map((suggestion, index) => (
-   <Account key={index} src={`https://github.com/${suggestion.login}.png`} size='40px' user={suggestion.login}/>
+   <Account key={index} 
+   src={`https://github.com/${suggestion.login}.png`} 
+   user={suggestion.login}/>
 ))}
 ```
 <div align=center>
