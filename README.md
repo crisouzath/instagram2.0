@@ -1,4 +1,9 @@
-# instagram 2.0
+<div align=center>
+<img width='50px' height='50px' src='https://user-images.githubusercontent.com/111239606/198918394-79e554b7-7c13-46f8-8817-a2148ce721e4.svg'>
+</div>
+<br>
+
+# instagram 2.0 
 ## Descrição
 Projeto desenvolvido totalmente em React com o objetivo de replicar a interface do Instagram com o conteúdo dos posts focado no sonho do usuário que postou.
 
