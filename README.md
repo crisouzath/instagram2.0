@@ -73,6 +73,13 @@ useEffect(() => {
 <img src='https://user-images.githubusercontent.com/111239606/198905150-5acfb1de-1f54-4a4c-af7e-4c2634fd09a8.png'>
 </div><br>
 
+## Links
+Link do projeto hospedado no Vercel e no LinkedIn:
+<div style='display:inline_block'><br>
+<a href='instagram-asuini02a-crisouzath.vercel.app'><img src='https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white'></a>
+<a href=''><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
+</div><br>
+
 ## Tecnologias Utilizadas
 <div style='display:inline_block'><br>
 <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
