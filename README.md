@@ -76,7 +76,7 @@ useEffect(() => {
 ## Links
 Link do projeto hospedado no Vercel e no LinkedIn:
 <div style='display:inline_block'><br>
-<a href='instagram-asuini02a-crisouzath.vercel.app'><img src='https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white'></a>
+<a href='instagram-asuini02a-crisouzath.vercel.app' target=_blank><img src='https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white'></a>
 <a href=''><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
 </div><br>
 
