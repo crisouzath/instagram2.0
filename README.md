@@ -80,8 +80,6 @@ Link do projeto hospedado no Vercel e no LinkedIn:
 <a href=''><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
 </div><br>
 
-https://instagram-fzs0srnhm-crisouzath.vercel.app/
-
 ## Tecnologias Utilizadas
 <div style='display:inline_block'><br>
 <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
